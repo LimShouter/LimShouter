@@ -61,7 +61,7 @@ MVP, MVVM, MVC.**
 ---
 
 <center>
-
+<p>
 <img src="https://img.shields.io/badge/-C%23-green">
 <img src="https://img.shields.io/badge/Unity-Addressable-red">   
 <img src="https://img.shields.io/badge/Unity-AssetBundles-red">  
@@ -79,7 +79,7 @@ MVP, MVVM, MVC.**
 <img src="https://img.shields.io/badge/MVVM-black">
 <img src="https://img.shields.io/badge/MVC-black">
 <img src="https://img.shields.io/badge/GOF-black">
-
+</p>    
 </center>
 
 
