@@ -28,6 +28,8 @@
 <p>
 <img src="SpaceJet_shop.gif" alt=""  style="height: 300px; width:300px;"/>
 <img src="SpaceJet_main.gif" alt=""  style="height: 300px; width:300px;"/>
+<img src="SpaceJet_gameplay.gif" alt=""  style="height: 300px; width:300px;"/>
+<img src="SpaceJet_scoreboard.png" alt=""  style="height: 300px; width:300px;"/>
 </p>
 
 ## Hackathons and Jams
