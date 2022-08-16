@@ -26,14 +26,14 @@
 
 + **NTI-Hackathon"Smart city"** ( *НТИ-Хакатон «Умный город»* ) - 🏅 Participation. Role: ProjectManager;
 + **HacksAI** - 🏅 Participation. Role: Back-end;
-+ **Cifra.Zone** ("Цифра.Zone") - 🥈 Awardee 2nd place. Role : Back-end(+TelegramBot development),Team-leader ;
++ **Cifra.Zone** ("Цифра.Zone") - 🥈 Awardee 2nd place. Role : Back-end(+TelegramBot development),Team-leader;
 + **LeadersOfDigital2020 (Final Stage)** - 🏅 Participation. Role: Front-end (Unity);
 + **LeadersOfDigital2020 (State Stage)** - 🥈 Awardee 2nd place. Role: Front-end (Unity);
 
 
 ## Achievements
-<img src="Cifra.Zone.png" alt="MarineGEO circle logo" style="height: 500px; width:353px;"/>
-<img src="NTI_SMartCity.png" alt="MarineGEO circle logo" style="height: 500px; width:353px;"/>
+<img src="Cifra.Zone.png" alt="MarineGEO circle logo" style="height: 297px; width:210px;"/>
+<img src="NTI_SMartCity.png" alt="MarineGEO circle logo" style="height: 297px; width:210px;"/>
 
 
 
