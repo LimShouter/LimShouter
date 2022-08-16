@@ -59,11 +59,10 @@ MVP, MVVM, MVC.**
 </p>
 
 ---
-         
+
 <center>
 
 <img src="https://img.shields.io/badge/-C%23-green">
-<a>
 <img src="https://img.shields.io/badge/Unity-Addressable-red">   
 <img src="https://img.shields.io/badge/Unity-AssetBundles-red">  
 <img src="https://img.shields.io/badge/Unity-DoTween-red">       
@@ -71,21 +70,16 @@ MVP, MVVM, MVC.**
 <img src="https://img.shields.io/badge/Unity-DOTS-red">          
 <img src="https://img.shields.io/badge/Unity-Entitas-red">       
 <img src="https://img.shields.io/badge/Unity-PostProcessing-red">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Back--end-.NET6-blue">
-    <img src="https://img.shields.io/badge/Back--end-EntityFramework-blue">
-    <img src="https://img.shields.io/badge/Back--end-SQL-lightblue">
-    <img src="https://img.shields.io/badge/Back--end-Docker-lightblue">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/SOLID-black">
-    <img src="https://img.shields.io/badge/MVP-black">
-    <img src="https://img.shields.io/badge/MVVM-black">
-    <img src="https://img.shields.io/badge/MVC-black">
-    <img src="https://img.shields.io/badge/GOF-black">
-</a>
-    
+<img src="https://img.shields.io/badge/Back--end-.NET6-blue">
+<img src="https://img.shields.io/badge/Back--end-EntityFramework-blue">
+<img src="https://img.shields.io/badge/Back--end-SQL-lightblue">
+<img src="https://img.shields.io/badge/Back--end-Docker-lightblue">
+<img src="https://img.shields.io/badge/SOLID-black">
+<img src="https://img.shields.io/badge/MVP-black">
+<img src="https://img.shields.io/badge/MVVM-black">
+<img src="https://img.shields.io/badge/MVC-black">
+<img src="https://img.shields.io/badge/GOF-black">
+
 </center>
 
 
