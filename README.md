@@ -2,6 +2,8 @@
 
 ## 👋🏻Welcome
 
+    I create candy from nothing
+
 ## 🥸 About me
 🖖🏻 **My name is Vlad, I'm 20 years old. I have been programming games and applications for 3 years, trying different new technologies in my projects.**
 
@@ -32,7 +34,7 @@
 <img src="SpaceJet_scoreboard.png" alt=""  style="height: 300px; width:300px;"/>
 </p>
 
-### BallJumper
+#### BallJumper
 <p>
 <img src="BallJumper.gif" alt=""  style="height: 300px; width:300px;"/>
 </p>
