@@ -60,27 +60,27 @@ MVP, MVVM, MVC.**
 
 ---
 
-<center>
-<p>
-<img src="https://img.shields.io/badge/-C%23-green">
-<img src="https://img.shields.io/badge/Unity-Addressable-red">   
-<img src="https://img.shields.io/badge/Unity-AssetBundles-red">  
-<img src="https://img.shields.io/badge/Unity-DoTween-red">       
-<img src="https://img.shields.io/badge/Unity-UIToolkit-red">     
-<img src="https://img.shields.io/badge/Unity-DOTS-red">          
-<img src="https://img.shields.io/badge/Unity-Entitas-red">       
-<img src="https://img.shields.io/badge/Unity-PostProcessing-red">
-<img src="https://img.shields.io/badge/Back--end-.NET6-blue">
-<img src="https://img.shields.io/badge/Back--end-EntityFramework-blue">
-<img src="https://img.shields.io/badge/Back--end-SQL-lightblue">
-<img src="https://img.shields.io/badge/Back--end-Docker-lightblue">
-<img src="https://img.shields.io/badge/SOLID-black">
-<img src="https://img.shields.io/badge/MVP-black">
-<img src="https://img.shields.io/badge/MVVM-black">
-<img src="https://img.shields.io/badge/MVC-black">
-<img src="https://img.shields.io/badge/GOF-black">
+
+<p style="align-items:center">
+    <img src="https://img.shields.io/badge/-C%23-green">
+    <img src="https://img.shields.io/badge/Unity-Addressable-red">   
+    <img src="https://img.shields.io/badge/Unity-AssetBundles-red">  
+    <img src="https://img.shields.io/badge/Unity-DoTween-red">       
+    <img src="https://img.shields.io/badge/Unity-UIToolkit-red">     
+    <img src="https://img.shields.io/badge/Unity-DOTS-red">          
+    <img src="https://img.shields.io/badge/Unity-Entitas-red">       
+    <img src="https://img.shields.io/badge/Unity-PostProcessing-red">
+    <img src="https://img.shields.io/badge/Back--end-.NET6-blue">
+    <img src="https://img.shields.io/badge/Back--end-EntityFramework-blue">
+    <img src="https://img.shields.io/badge/Back--end-SQL-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-Docker-lightblue">
+    <img src="https://img.shields.io/badge/SOLID-black">
+    <img src="https://img.shields.io/badge/MVP-black">
+    <img src="https://img.shields.io/badge/MVVM-black">
+    <img src="https://img.shields.io/badge/MVC-black">
+    <img src="https://img.shields.io/badge/GOF-black">
 </p>    
-</center>
+
 
 
 
