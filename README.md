@@ -1,15 +1,25 @@
 # LimShouter ![Watchers](https://komarev.com/ghpvc/?username=limshouter)
 
-## 👋Welcome
+## 👋🏻Welcome
 
 ## 🥸 About me
+🖖🏻 **My name is Vlad, I'm 20 years old. I have been programming games and applications for 3 years, trying various new technologies in my projects.**
+
+👌🏻**I have development experience in small casual games, back-end, API, regional hackathon solutions and more.**
+
+🤌🏻**In my projects, I try to adhere to the basic design principles in OOP such as SOLID, GoF patterns, patterns like MVP, MVVM, MVC.**
+
+💻**Now I am finalizing my concept documents for larger projects and developing pet projects to expand my portfolio**
+
+🔍 **I am looking for a company or team that will warmly welcome my ideas and aspirations**
+
 
 ## 📈GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limshouter&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimShouter&show_icons=true&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects;
+## Projects
 
 
 ## Hackathons and Jams
@@ -22,7 +32,9 @@
 
 
 ## Achievements
-![](https://img.hhcdn.ru/photo/653301469.png?t=1660727245&h=hSSorEWt1oBST2gyBHlJ3Q)
+<img src="Cifra.Zone.png" alt="MarineGEO circle logo" style="height: 500px; width:353px;"/>
+<img src="NTI_SMartCity.png" alt="MarineGEO circle logo" style="height: 500px; width:353px;"/>
+
 
 
 
