@@ -32,7 +32,7 @@
 
 
 ## Achievements
-<img src="Cifra.Zone.png" alt="MarineGEO circle logo" style="height: 297px; width:210px;"/>
+<img src="Cifra.Zone.png" alt="MarineGEO circle logo" onmouseover="this.src = Cifra.Zone.png" style="height: 297px; width:210px;"/>
 <img src="NTI_SMartCity.png" alt="MarineGEO circle logo" style="height: 297px; width:210px;"/>
 
 
