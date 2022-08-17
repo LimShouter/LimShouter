@@ -2,7 +2,7 @@
 
 ## 👋🏻Welcome
 
-    I create candy from nothing
+    Make candy from nothing
 
 ## 🥸 About me
 
