@@ -1,4 +1,4 @@
-# LimShouter ![Watchers](https://komarev.com/ghpvc/?username=limshouter)
+# Limshok ![Watchers](https://komarev.com/ghpvc/?username=limshouter)
 
 ## 👋🏻Welcome
 
@@ -20,9 +20,9 @@ MVP, MVVM, MVC.**
 
 ## 📈GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limshouter&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limshok&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimShouter&show_icons=true&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limshok&show_icons=true&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
