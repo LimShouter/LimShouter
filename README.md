@@ -6,7 +6,7 @@
 
 ## 🥸 About me
 
-🖖🏻 **My name is Vlad, I'm 20 years old. I have been programming games and applications for 3 years, trying different new
+🖖🏻 **My name is Vlad, I'm 21 years old. I have been programming games and applications for 3 years, trying different new
 technologies in my projects.**
 
 👌🏻**I have development experience in small casual games, back-end, API, regional hackathon solutions and more.**
@@ -21,27 +21,6 @@ MVP, MVVM, MVC.**
 ## 📈GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limshok&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limshok&show_icons=true&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-
-### 2021
-
-#### SpaceJet
-
-<p>
-<img src="SpaceJet_shop.gif" alt=""  style="height: 300px; width:300px;"/>
-<img src="SpaceJet_main.gif" alt=""  style="height: 300px; width:300px;"/>
-<img src="SpaceJet_gameplay.gif" alt=""  style="height: 300px; width:300px;"/>
-<img src="SpaceJet_scoreboard.png" alt=""  style="height: 300px; width:300px;"/>
-</p>
-
-#### BallJumper
-
-<p>
-<img src="BallJumper.gif" alt=""  style="height: 300px; width:300px;"/>
-</p>
 
 ## Hackathons and Jams
 
